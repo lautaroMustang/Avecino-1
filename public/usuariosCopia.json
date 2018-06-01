@@ -1,0 +1,76 @@
+{
+    "usuarios": [
+        {
+            "userName": "a",
+            "name": "a",
+            "email": "a@a.com",
+            "password": "$2y$10$VmLCM2ba4JCvaJY8No3WqOdmTJNhzbjtEUpoNSEyAj0EL6jQGetIO",
+            "id": 1,
+            "image": ".\/archivos\/imagen_1522452286.png"
+        },
+        {
+            "userName": "Lautaro",
+            "name": "Lautaro Gonzalez",
+            "email": "lautarogonzalez@outlook.com",
+            "password": "$2y$10$.4SBJ35y.watoWcbB\/ANJutNm8KX.SDQws1vBCLZfFvINl0QdeXUO",
+            "id": 2,
+            "image": ".\/archivos\/imagen_1522472521.png"
+        },
+        {
+            "userName": "kobrador",
+            "name": "Jorge Reyes",
+            "email": "kobrador@netscape.net",
+            "password": "$2y$10$yoPZpyLF1AqH419o3N23pu7qv6D8HOX.orF8e1ho897K.NOWzBs8.",
+            "id": 3,
+            "image": ".\/archivos\/imagen_1522722429.png"
+        },
+        {
+            "userName": "jso",
+            "email": "jso@jso.jso",
+            "password": "jso",
+            "name": "jso",
+            "image": ".\/archivos\/imagen_1527306970.png",
+            "id": 4
+        },
+        {
+            "userName": "jso",
+            "email": "jso@jso.jso2",
+            "password": "$infoUsuario",
+            "name": "jso",
+            "image": ".\/archivos\/imagen_1527307767.pdf",
+            "id": 5
+        },
+        {
+            "userName": "a",
+            "email": "a@a.com2222",
+            "password": "$2y$10$ATLlh1cPW40HcZpLMaECf.sveXIpzZ3XPgr5ZIhdudg5yLkJsNxO.",
+            "name": "a",
+            "image": ".\/archivos\/imagen_1527310932.",
+            "id": 6
+        },
+        {
+            "userName": "lautaro",
+            "email": "lmg@gmail.com",
+            "password": "$2y$10$dFsI4IA5wEFsdCpceVH6Zuc3si5NFK94YJ1BVaL6lp.uAh2C3gbEa",
+            "name": "lautaro",
+            "image": ".\/archivos\/imagen_1527311751.png",
+            "id": 7
+        },
+        {
+            "userName": "a",
+            "email": "a@outlook.com",
+            "password": "$2y$10$CINF8L2o462xrdLM.4VT7OB\/MT7FlMM2aGINIRcmrqvL4LiNTh8DS",
+            "name": "a",
+            "image": ".\/archivos\/imagen_1527311843.png",
+            "id": 8
+        },
+        {
+            "userName": "Lautaro",
+            "email": "lautaromg84@gmail.com",
+            "password": "$2y$10$2UQPpDqNuO8eeW1ZRplCd.eMsCkiHWPDzQ1ABRxVu.ZE06wAp0D3S",
+            "name": "Lautaro prime",
+            "image": ".\/archivos\/imagen_1527318329.png",
+            "id": 9
+        }
+    ]
+}
